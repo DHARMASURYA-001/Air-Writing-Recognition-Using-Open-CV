@@ -24,25 +24,23 @@ To run the code in this repository, you'll need to have Python and some specific
 1. **Clone the repository:**
 
    git clone https://github.com/yourusername/air-writing-recognition.git
-   cd air-writing-recognition```
+   cd air-writing-recognition
 
-2. **Create a virtual environment and activate it:**
-
-
+3. **Create a virtual environment and activate it:**
+   
   python -m venv venv
   source venv/bin/activate  # On Windows, use `venv\Scripts\activate
 
 3. **Install the required dependencies:**
 
-  pip install -r requirements.txt```
+  pip install -r requirements.txt
 
 ## Usage
 Follow these steps to use the air writing recognition system:
 
 1. **Open the Jupyter Notebook:**
 
-
-  jupyter notebook
+ jupyter notebook
 
 2. **Run the Notebook:**
 
