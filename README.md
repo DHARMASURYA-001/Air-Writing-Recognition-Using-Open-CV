@@ -26,29 +26,24 @@ To run the code in this repository, you'll need to have Python and some specific
    git clone https://github.com/yourusername/air-writing-recognition.git
    cd air-writing-recognition
 
-3. **Create a virtual environment and activate it:**
-   
+2. **Create a virtual environment and activate it:**
   python -m venv venv
   source venv/bin/activate  # On Windows, use `venv\Scripts\activate
 
 3. **Install the required dependencies:**
-
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Usage
 Follow these steps to use the air writing recognition system:
 
 1. **Open the Jupyter Notebook:**
-
- jupyter notebook
+   jupyter notebook
 
 2. **Run the Notebook:**
-
   -> Open the file Air Writing Recognition Using Open CV.ipynb in the Jupyter interface.
   -> Run all the cells in the notebook to start the air writing recognition system.
 
 3. **Interacting with the System:**
-
   -> The system will activate your webcam.
   -> Ensure you have a blue-colored object (e.g., a pen cap) to write in the air.
   -> The recognized gestures will be displayed on the screen.
