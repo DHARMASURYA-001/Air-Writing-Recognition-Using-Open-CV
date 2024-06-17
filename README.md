@@ -1,5 +1,8 @@
 # Air Writing Recognition Enhancement Using OpenCV
 
+**Author: Dharma Surya R,**
+**Institution: Vellore Institute of Technology, Vellore, India**
+
 ## Project Overview
 
 This repository contains the code for the project "Air Writing Recognition Enhancement Using OpenCV." The project aims to recognize characters written in the air using hand movements, leveraging the OpenCV library for image processing, and utilizing masking and contouring techniques to achieve character recognition.
@@ -28,12 +31,12 @@ To run the code in this repository, you'll need to have Python and some specific
    cd air-writing-recognition
    ```
 
-3. **Create a virtual environment and activate it:**
+2. **Create a virtual environment and activate it:**
 
-  ```bash 
-  python -m venv venv
-  source venv/bin/activate  # On Windows, use `venv\Scripts\activate
-  ```
+     ```bash 
+     python -m venv venv
+     source venv/bin/activate  # On Windows, use `venv\Scripts\activate
+     ```
 
 3. **Install the required dependencies:**
    
