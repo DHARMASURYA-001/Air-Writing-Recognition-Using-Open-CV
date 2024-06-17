@@ -23,10 +23,12 @@ To run the code in this repository, you'll need to have Python and some specific
 
 1. **Clone the repository:**
 
+   ```bash
    git clone https://github.com/yourusername/air-writing-recognition.git
    cd air-writing-recognition
+   ```
 
-2. **Create a virtual environment and activate it:**
+3. **Create a virtual environment and activate it:**
    
   python -m venv venv
   source venv/bin/activate  # On Windows, use `venv\Scripts\activate
